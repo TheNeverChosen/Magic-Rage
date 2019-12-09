@@ -1,0 +1,1193 @@
+fileFormatVersion: 2
+guid: a34783801783e164590f9eeb0dea93eb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red wizard - blue staff_0
+    21300002: red wizard - blue staff_1
+    21300004: red wizard - blue staff_2
+    21300006: red wizard - blue staff_3
+    21300008: red wizard - blue staff_4
+    21300010: red wizard - blue staff_5
+    21300012: red wizard - blue staff_6
+    21300014: red wizard - blue staff_7
+    21300016: red wizard - blue staff_8
+    21300018: red wizard - blue staff_9
+    21300020: red wizard - blue staff_10
+    21300022: red wizard - blue staff_11
+    21300024: red wizard - blue staff_12
+    21300026: red wizard - blue staff_13
+    21300028: red wizard - blue staff_14
+    21300030: red wizard - blue staff_15
+    21300032: red wizard - blue staff_16
+    21300034: red wizard - blue staff_17
+    21300036: red wizard - blue staff_18
+    21300038: red wizard - blue staff_19
+    21300040: red wizard - blue staff_21
+    21300042: red wizard - blue staff_23
+    21300044: red wizard - blue staff_25
+    21300046: red wizard - blue staff_27
+    21300048: red wizard - blue staff_30
+    21300050: red wizard - blue staff_31
+    21300052: red wizard - blue staff_34
+    21300054: red wizard - blue staff_35
+    21300056: red wizard - blue staff_41
+    21300058: red wizard - blue staff_43
+    21300060: red wizard - blue staff_45
+    21300062: red wizard - blue staff_47
+    21300064: red wizard - blue staff_48
+    21300066: red wizard - blue staff_49
+    21300068: red wizard - blue staff_50
+    21300070: red wizard - blue staff_51
+    21300072: red wizard - blue staff_52
+    21300074: red wizard - blue staff_53
+    21300076: red wizard - blue staff_54
+    21300078: red wizard - blue staff_55
+    21300080: red wizard - blue staff_56
+    21300082: red wizard - blue staff_57
+    21300084: red wizard - blue staff_58
+    21300086: red wizard - blue staff_59
+    21300088: red wizard - blue staff_60
+    21300090: red wizard - blue staff_61
+    21300092: red wizard - blue staff_62
+    21300094: red wizard - blue staff_63
+    21300096: red wizard - blue staff_64
+    21300098: red wizard - blue staff_65
+    21300100: red wizard - blue staff_66
+    21300102: red wizard - blue staff_67
+    21300104: red wizard - blue staff_20
+    21300106: red wizard - blue staff_22
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red wizard - blue staff_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1258
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9700768b387138b41b01bf1b94e73b15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1258
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.515, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8ec77e73fa71d44b52e1a59912d606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1258
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.515, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b08728448e5a469df55a8e1972e18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1258
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.515, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fdfd774aafd924ca9b77772ac1d341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1162
+        width: 29
+        height: 51
+      alignment: 9
+      pivot: {x: 0.378, y: 0.4695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb3b8ed283eaad4b8e035a0478e1b5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1162
+        width: 29
+        height: 51
+      alignment: 9
+      pivot: {x: 0.378, y: 0.4695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966b6ca27915324428117930026480a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1162
+        width: 29
+        height: 51
+      alignment: 9
+      pivot: {x: 0.378, y: 0.4695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b8239f5fa9bb45b733b01bec5c9f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1162
+        width: 29
+        height: 51
+      alignment: 9
+      pivot: {x: 0.378, y: 0.4695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9997e8f4778401941b9cabc63f18814f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1066
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb0addf76db6848a84525eca57964b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1066
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a6b0b5aa199fb449cda4150e22bd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1066
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e55787d0d94a44b8c843854eb8b343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1066
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc825cd26e43b4d46aa3f9e6571938ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 970
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e5e956dfc05d44185c58702b61003b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 970
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a3b6262c6724f429df069ae4820c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 970
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e65b7dbca39c14bab1a56473129fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 970
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380247bed6e16ce45b08e09a9da56576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 874
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f71954b7b4cb7418d961ed1340b2da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 874
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65, y: 0.478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467115355816171498cc3ce28a067575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 874
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd6dd4233da8cd4fb1db986da2c3408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 874
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.65999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9ddbc0d314c674da3b2ad2569be2a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 778
+        width: 36
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b196305efdcd546ae5b751ab4c9f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 778
+        width: 32
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44742bd4690e54c954d72bfd7c8767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 778
+        width: 36
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86cf8ab32ae2694db2e99f7538b7073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_27
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 778
+        width: 32
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa23b7d98b286045b382673964697f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 682
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53c6a558f100994fa257097aee7f99f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 682
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22083e228a45ea64a85959bfde152994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 682
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c40174f3338a4ea8c910fff24aeeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 682
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b80f7f83fbe23c419907b910ee10cfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 585
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02805601f9351ec4d81a069ce4d16862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 585
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaed11b9163fab4f9c29acae9a2268d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 585
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7ddcd102c79d41aa639c66bd6c897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 585
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a04986ae18538e42a3d4ea0874d6d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 490
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac5d461d92511041965f9d8dd355313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 490
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28af966a1ba63d40b8d043de60d22ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 490
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771bd60346d30744ade259ba0ec9ac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 490
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f1110a6e20c34c9013f32e6a4c722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 395
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b4b96e5b57e8948852af9542c26fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 395
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93fd6a4c8c0e1499e76d34bec38511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_54
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 395
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6d075a798530469e9a3b4f7dbb401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 395
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d882f94ab3fa7354785b68a497af2e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 298
+        width: 38
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbfcf85e90f1b349945df2a90662460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_57
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 298
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5116c926be27aa4fbba45204a44e8cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_58
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 298
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcffad8c85f069448c76230edebb086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_59
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 298
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2375d903162281d4f8ac9ba59627dfbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 202
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44, y: 0.429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eabc7307116404ebed9a1668638b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 202
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b268b445ec01f584dbffb7fa3161c56a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_62
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 202
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d637be89287147aea5a7bf8ed4e03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_63
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 202
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d7b716c1153f4f8e514b46547c454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_64
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 104
+        width: 42
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d79221fce593624a913fe7bffa581a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 104
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68bd3e041dc73843b107d23bc576da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 104
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f760668a637394096eb51fe4ac210c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red wizard - blue staff_67
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 104
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1920c598ec67c2478690faf5e41d68f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ebf540a7f4a64b442b8a2c144ebb483e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
